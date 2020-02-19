@@ -9,6 +9,3 @@ Pueden hacer lo que quieran...
 
 ### GITHUB
 Cambios realizados en GitHub.com
-
-## Nuevos cambios
-Esto es un prueba
